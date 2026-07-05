@@ -51,8 +51,7 @@ data quality issue in the source file itself.
 **Top 10 authors/publishers by number of bestsellers**
 ![Top authors](top_authors.png)
 
-**Average rating by price range**
-![Rating by price range](rating_by_price.png)
+
 
 ## Skills Demonstrated
 - SQL: `CASE` statements, `GROUP BY`, aggregation, sorting
